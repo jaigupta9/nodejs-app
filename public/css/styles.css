@@ -1,0 +1,45 @@
+body {
+    font-size: 20px;
+}
+
+#id {
+    color: violet;
+}
+
+.container {
+    margin: 0px;
+}
+
+.container-fluid {
+    margin: 20px;
+}
+
+div {
+    background-color: lightgray;
+    margin: 15px;
+    font-weight: 600;
+
+}
+
+table {
+    margin: auto;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+}
+
+#header {
+    margin: 40px;
+}
+
+#tag1 {
+    font-size: 30px;
+}
+
+.list {
+    background-color: aqua;
+}
